@@ -1,22 +1,17 @@
 
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQHbv0uuqmz_zQ/profile-displaybackgroundimage-shrink_350_1400/0/1695665352644?e=1702512000&v=beta&t=NbeJt8I-CX48SrljUpcwAsrJG7SFTlj3fuu7Kh4OZcQ)
 
-Hello, I am Abadat Hossain! I have a natural approach to presentation design, navigation design, and information design and at the same time part-time employee with professional and personal skills. As a developer, I have gained familiarity with MERN stack development specializing in front-end development am adept at building responsive web applications from front to back. Strong passionate, dedicated, hardworking, and sincere learning and development skills for the web development sector. Seeking opportunities to contribute to projects and grow as a professional developer.
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Md. Abadat Hossain and I'm a MERN Full Stack Developer | React-Developer | Front End Developer | WordPress Developer.</p>
+<p><strong> Currently, I'm open to work and employment opportunities.</strong> </p> 
+
+###
+I have a natural approach to presentation design, navigation design, and information design and at the same time part-time employee with professional and personal skills. As a developer, I have gained familiarity with MERN stack development specializing in front-end development am adept at building responsive web applications from front to back. Strong passionate, dedicated, hardworking, and sincere learning and development skills for the web development sector. Seeking opportunities to contribute to projects and grow as a professional developer.
 
 I tackle life and career management scenarios with meticulous strategies based on my expertise in the following areas:
-
-SKILLS SUMMARY
-============
-☛ Languages – JavaScript (ES5 + ES6)
-☛ Expertise: HTML | CSS | Responsive design | Bootstrap | Tailwind | DaisyUI.
-☛ Comfortable: JavaScript skills | MongoDB | CURD | ReactJS | Mern Stack.
-☛ Familiar: Node Package Manager (npm) | Express | Postman | MySQL | MVC, Modular architecture.
-☛ Tools: GitHub | Chrome Developer Tools | Visual Studio Code | Vercel | netlify.
-☛ CMS: WordPress & WooCommerce Expert | Wix design and re-design.
-☛ Bootstrap coded responsive PSD to HTML/Bootstrap
-☛ HTML, CSS. BOOTSTRAP, JAVASCRIPT, JQUERY, WordPress Bug/ Error Fixing.
-☛ Website Maintenance & Website Optimization 
-☛ Website speed increase & SEO
 
 PROFESSIONAL COURSES
 =================
@@ -45,14 +40,7 @@ Skills: HTML | CSS | Bootstrap | Tailwind |JavaScript skills | MongoDB | CURD | 
 
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="left">My name is Md. Abadat Hossain and I'm a MERN Full Stack Developer | React-Developer | Front End Developer | WordPress Developer.</p>
-<p><strong> Currently, I'm open to work and employment opportunities.</strong> </p> 
-
-###
 
 <h2 align="left">About me</h2>
 
