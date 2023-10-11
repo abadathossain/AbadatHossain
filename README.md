@@ -104,13 +104,11 @@ Skills: HTML | CSS | Bootstrap | Tailwind |JavaScript skills | MongoDB | CURD | 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbadatHossain)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="left">Statistics</h2>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbadatHossain&show_icons=true&count_private=true)  
 
-<h2 align="left">Activity</h2>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbadatHossain)  
 
-<h2 align="left">Contributions</h2>
 ![GitHub metrics](https://metrics.lecoq.io/AbadatHossain)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbadatHossain)  
