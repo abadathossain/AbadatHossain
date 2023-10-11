@@ -31,7 +31,6 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
 ☛ Website: www.abadathossain.com
 ☛ Facebook: https://www.facebook.com/abadathossain360/
 
-
 <h2 align="left">About me</h2>
 
 ###
@@ -50,7 +49,6 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
 ###
 
 <h2 align="left">Technologies that I know</h2><br><br>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
@@ -77,16 +75,13 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" alt="WordPress logo"  />
   <img width="15" />
 
- 
 </div>
 
 <h2 align="left">Reach out Me</h2><br><br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/AbadatHossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/md-abadat-hossain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='50'>](https://www.facebook.com/abadat.hossain.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'>](https://www.instagram.com/abadat_hossain360/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abadat26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='50'>](https://www.youtube.com/channel/@abadat-hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='50'>](www.abadathossain.com)  
 
-
 ###
-
 
 <h2 align="left">Languages</h2><br><br>
 
@@ -96,14 +91,12 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbadatHossain&show_icons=true&count_private=true)  
 
-<h2 align="left">Github Graph</h2><br><br>
+<h2 align="left">Github Metrics</h2><br><br>
 
-![GitHub Activity Graph]([https://activity-graph.herokuapp.com/graph?username=AbadatHossain](https://platane.github.io/snk/))  
 
 ![GitHub metrics](https://metrics.lecoq.io/AbadatHossain)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbadatHossain)  
-
 
 ###
 
