@@ -13,8 +13,8 @@ I have a natural approach to presentation design, navigation design, and informa
 
 I tackle life and career management scenarios with meticulous strategies based on my expertise in the following areas:
 
-PROFESSIONAL COURSES
-=================
+<h2 align="left">Professional Courses</h2>
+
 ☛ Complete Web Development Course
  Institution: Programming Hero
  Duration: 6 months
@@ -22,9 +22,9 @@ PROFESSIONAL COURSES
 ☛ WordPress & E-commerce
  Institution: CodemanBD
  Duration: 6 months
+ 
+<h2 align="left">Contact Me</h2>
 
-Contact Me
-============
 Connect with me today to find out how I’ll make your mission, to help bring ALL of your business objectives into focus!
 ☛ Email: abadat26@gmail.com or info@abadathossain.com
 ☛ Phone: +8801911238748 (Whats app) 
