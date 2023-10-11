@@ -92,12 +92,16 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbadatHossain)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="left">Languages</h2><br><br>
+<h2 align="left">Github Stats</h2><br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbadatHossain&show_icons=true&count_private=true)  
 
+<h2 align="left">Github Graph</h2><br><br>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbadatHossain)  
 
+
+<h2 align="left">Github Activity</h2><br><br>
 ![GitHub metrics](https://metrics.lecoq.io/AbadatHossain)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbadatHossain)  
