@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m exploring -React.js with Redux for web application.<br>✨ Creating bug solutions in code.<br>📚 I'm currently learning Redux.<br>🎯 I’m working - In Encoders.tech.<br>👯 I’m looking - To collaborate on open-source projects.<br>🤔 I’m trying - To help people learn web development.<br>⚡ Fun fact - I love to make complex origami.<br>🌱 I’m currently learning many things, I believe that every day is a learning opportunity.<br>👯 I’m currently open for work and employment opportunities (remote) </p> 
+<p align="left">🌱 I’m exploring -React.js with Redux for web application.<br>✨ Creating bug solutions in code.<br>📚 I'm currently learning Redux.<br>🎯 I’m working - In Encoders.tech.<br>👯 I’m looking - To collaborate on open-source projects.<br>🤔 I’m trying - To help people learn web development.<br>⚡ Fun fact - I love to make complex origami.<br>🌱 I’m currently learning many things, I believe every day is a learning opportunity.<br>👯 I’m currently open for work and employment opportunities (remote) </p> 
 
 ###
 
@@ -36,9 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="html5 logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="html5 logo"  />
- <img src="https://www.svgrepo.com/svg/333491/wix)" height="30" alt="html5 logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="WordPress logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+ <img src="https://www.svgrepo.com/svg/333491/wix" height="30" alt="html5 logo" />
 </div>
 
 ###
