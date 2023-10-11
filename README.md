@@ -48,7 +48,7 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
 
 ###
 
-<h2 align="left">Technologies that I know</h2><br><br>
+<h2 align="left">Technologies that I know</h2><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
@@ -77,21 +77,21 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
 
 </div>
 
-<h2 align="left">Reach out Me</h2><br><br>
+<h2 align="left">Reach out Me</h2><br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/AbadatHossain) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/md-abadat-hossain/) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='50'>](https://www.facebook.com/abadat.hossain.7) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'>](https://www.instagram.com/abadat_hossain360/) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abadat26) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='50'>](https://www.youtube.com/channel/@abadat-hossain) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='50'>](www.abadathossain.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/AbadatHossain) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/md-abadat-hossain/) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='50'>](https://www.facebook.com/abadat.hossain.7) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'>](https://www.instagram.com/abadat_hossain360/) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abadat26) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='50'>](https://www.youtube.com/channel/@abadat-hossain) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='50'>](www.abadathossain.com)  
 
 ###
 
-<h2 align="left">Languages</h2><br><br>
+<h2 align="left">Languages</h2><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbadatHossain)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="left">Github Stats</h2><br><br>
+<h2 align="left">Github Stats</h2><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbadatHossain&show_icons=true&count_private=true)  
 
-<h2 align="left">Github Metrics</h2><br><br>
+<h2 align="left">Github Metrics</h2><br>
 
 ![GitHub metrics](https://metrics.lecoq.io/AbadatHossain)  
 
