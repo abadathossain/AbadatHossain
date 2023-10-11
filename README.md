@@ -99,7 +99,7 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
 <h2 align="left">Github Graph</h2><br><br>
 
 ![GitHub Activity Graph]([https://activity-graph.herokuapp.com/graph?username=AbadatHossain](https://platane.github.io/snk/))  
-[![Contributors](https://contributors-img.web.app/image?repo=AbadatHossain/ AbadatHossain)](https://github.com/ AbadatHossain / AbadatHossain /graphs/contributors)
+
 
 ![GitHub metrics](https://metrics.lecoq.io/AbadatHossain)  
 
