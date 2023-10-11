@@ -107,16 +107,9 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
 
 ###
 
-name: Codacy Security Scan
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    # The branches below must be a subset of the branches above
-    branches: [ main ]
-  schedule:
-    - cron: '21 9 * * 3'
+
+
 
 
 
