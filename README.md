@@ -1,4 +1,50 @@
-https://media.licdn.com/dms/image/D5616AQHbv0uuqmz_zQ/profile-displaybackgroundimage-shrink_350_1400/0/1695665352644?e=1702512000&v=beta&t=NbeJt8I-CX48SrljUpcwAsrJG7SFTlj3fuu7Kh4OZcQ
+
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQHbv0uuqmz_zQ/profile-displaybackgroundimage-shrink_350_1400/0/1695665352644?e=1702512000&v=beta&t=NbeJt8I-CX48SrljUpcwAsrJG7SFTlj3fuu7Kh4OZcQ)
+
+Hello, I am Abadat Hossain! I have a natural approach to presentation design, navigation design, and information design and at the same time part-time employee with professional and personal skills. As a developer, I have gained familiarity with MERN stack development specializing in front-end development am adept at building responsive web applications from front to back. Strong passionate, dedicated, hardworking, and sincere learning and development skills for the web development sector. Seeking opportunities to contribute to projects and grow as a professional developer.
+
+I tackle life and career management scenarios with meticulous strategies based on my expertise in the following areas:
+
+SKILLS SUMMARY
+============
+☛ Languages – JavaScript (ES5 + ES6)
+☛ Expertise: HTML | CSS | Responsive design | Bootstrap | Tailwind | DaisyUI.
+☛ Comfortable: JavaScript skills | MongoDB | CURD | ReactJS | Mern Stack.
+☛ Familiar: Node Package Manager (npm) | Express | Postman | MySQL | MVC, Modular architecture.
+☛ Tools: GitHub | Chrome Developer Tools | Visual Studio Code | Vercel | netlify.
+☛ CMS: WordPress & WooCommerce Expert | Wix design and re-design.
+☛ Bootstrap coded responsive PSD to HTML/Bootstrap
+☛ HTML, CSS. BOOTSTRAP, JAVASCRIPT, JQUERY, WordPress Bug/ Error Fixing.
+☛ Website Maintenance & Website Optimization 
+☛ Website speed increase & SEO
+
+PROFESSIONAL COURSES
+=================
+☛ Complete Web Development Course
+ Institution: Programming Hero
+ Duration: 6 months
+
+☛ WordPress & E-commerce
+ Institution: CodemanBD
+ Duration: 6 months
+
+Contact Me
+============
+Connect with me today to find out how I’ll make your mission, to help bring ALL of your business objectives into focus!
+☛ Email: abadat26@gmail.com or info@abadathossain.com
+☛ Phone: +8801911238748 (Whats app) 
+☛ Website: www.abadathossain.com
+☛ Facebook: https://www.facebook.com/abadathossain360/
+
+Skills: HTML | CSS | Bootstrap | Tailwind |JavaScript skills | MongoDB | CURD | ReactJS | Mern Stack | CMS
+
+
+
+
+
+
+
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
