@@ -100,8 +100,6 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbadatHossain)  
 
-
-<h2 align="left">Github Activity</h2><br><br>
 ![GitHub metrics](https://metrics.lecoq.io/AbadatHossain)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbadatHossain)  
