@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Md. Abadat Hossain and I'm a MERN Full Stack Developer | React-Developer | Front End Developer.</p>
+<p align="left">My name is Md. Abadat Hossain and I'm a MERN Full Stack Developer | React-Developer | Front End Developer | WordPress Developer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m exploring -React.js with Redux for web application.<br>✨ Creating bugs solutions in code.<br>📚 I'm currently learning Redux.<br>🎯 I’m working - In Encoders.tech.<br>👯 I’m looking - To collaborate on open source projects.<br>🤔 I’m trying - To help people learn web development.<br>⚡ Fun fact - I love to make complex origami.</p>
+<p align="left">🌱 I’m exploring -React.js with Redux for web application.<br>✨ Creating bug solutions in code.<br>📚 I'm currently learning Redux.<br>🎯 I’m working - In Encoders.tech.<br>👯 I’m looking - To collaborate on open-source projects.<br>🤔 I’m trying - To help people learn web development.<br>⚡ Fun fact - I love to make complex origami.</p>
 
 ###
 
@@ -44,7 +44,7 @@
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/md-abadat-hossain-ba0a04212/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-abadat-hossain/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a> 
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
