@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Technologies that I know</h2>
+<h2 align="left">Technologies that I know</h2><br><br>
 
 
 <div align="left">
