@@ -31,16 +31,6 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
 ☛ Website: www.abadathossain.com
 ☛ Facebook: https://www.facebook.com/abadathossain360/
 
-Skills: HTML | CSS | Bootstrap | Tailwind |JavaScript skills | MongoDB | CURD | ReactJS | Mern Stack | CMS
-
-
-
-
-
-
-
-
-
 
 <h2 align="left">About me</h2>
 
@@ -95,14 +85,14 @@ Skills: HTML | CSS | Bootstrap | Tailwind |JavaScript skills | MongoDB | CURD | 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/AbadatHossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/md-abadat-hossain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='50'>](https://www.facebook.com/abadat.hossain.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'>](https://www.instagram.com/abadat_hossain360/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abadat26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='50'>](https://www.youtube.com/channel/@abadat-hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='50'>](www.abadathossain.com)  
 
 
-
 ###
 
 
-
-<h2 align="left">Languages</h2>
+<h2 align="left">Languages</h2><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbadatHossain)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="left">Languages</h2><br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbadatHossain&show_icons=true&count_private=true)  
 
