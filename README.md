@@ -98,7 +98,7 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
 
 <h2 align="left">Github Graph</h2><br><br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbadatHossain)  
+![GitHub Activity Graph]([https://activity-graph.herokuapp.com/graph?username=AbadatHossain](https://platane.github.io/snk/))  
 
 ![GitHub metrics](https://metrics.lecoq.io/AbadatHossain)  
 
