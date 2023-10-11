@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Md. Abadat Hossain and I'm a MERN Full Stack Developer | React-Developer | Front End Developer | WordPress Developer.</p>
-<p> Currently, I'm open to work and employment opportunities. </p> 
+<p><strong> Currently, I'm open to work and employment opportunities.</strong> </p> 
 
 ###
 
