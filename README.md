@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m exploring -React.js with Redux for web application.<br>✨ Creating bug solutions in code.<br>📚 I'm currently learning Redux.<br>🎯 I’m working - In Encoders.tech.<br>👯 I’m looking - To collaborate on open-source projects.<br>🤔 I’m trying - To help people learn web development.<br>⚡ Fun fact - I love to make complex origami.</p> 🌱 I’m currently learning many things, I believe that every day is a learning opportunity.<br>👯 I’m currently open for work and employment opportunities (remote and relocation)
+<p align="left">🌱 I’m exploring -React.js with Redux for web application.<br>✨ Creating bug solutions in code.<br>📚 I'm currently learning Redux.<br>🎯 I’m working - In Encoders.tech.<br>👯 I’m looking - To collaborate on open-source projects.<br>🤔 I’m trying - To help people learn web development.<br>⚡ Fun fact - I love to make complex origami.🌱 I’m currently learning many things, I believe that every day is a learning opportunity.<br>👯 I’m currently open for work and employment opportunities (remote) </p> 
 
 ###
 
