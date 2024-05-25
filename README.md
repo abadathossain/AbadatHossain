@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is Md. Abadat Hossain and I'm a Front End Developer | React-Developer | WordPress Developer | Wix and EditorX Expert.</p>
+<p align="left">My name is Md. Abadat Hossain and I'm a WordPress and E-commerce Developer | Wix & EditorX Expert | Webflow Expert & Front-End Developer.</p>
 <p><strong> Currently, I'm open to work and employment opportunities.</strong> </p> 
 
 ###
