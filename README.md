@@ -75,6 +75,9 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" alt="WordPress logo"  />
   <img width="15" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" />
+  <img width="15" />
+
 </div>
 
 <h2 align="left">Reach out Me</h2><br>
