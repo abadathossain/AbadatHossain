@@ -98,7 +98,7 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
 
 ![GitHub metrics](https://metrics.lecoq.io/AbadatHossain)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AbadatHossain)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=abadatHossain)  
 
 ###
 
