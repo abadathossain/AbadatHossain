@@ -78,6 +78,9 @@ Connect with me today to find out how I’ll make your mission, to help bring AL
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" />
   <img width="15" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB logo" />
+  <img width="15" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL logo" />
   <img width="15" />
 
